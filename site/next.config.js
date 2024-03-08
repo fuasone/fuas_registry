@@ -2,11 +2,11 @@
 
 const nextConfig = {
   env: {
-    name: 'Kasm Technologies',
-    description: 'The official store for Kasm supported workspaces.',
-    icon: '/img/logo.svg',
-    listUrl: 'https://registry.kasmweb.com/',
-    contactUrl: 'https://kasmweb.com/support',
+    name: 'FUASONE',
+    description: 'FUASONE ',
+    icon: '/site/fuasonelogo.svg',
+    listUrl: 'https://github.com/fuasone/fuas_registry/',
+    contactUrl: 'https://fuas.dk',
   },
   reactStrictMode: true,
   swcMinify: true,
