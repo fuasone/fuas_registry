@@ -4,13 +4,13 @@ const nextConfig = {
   env: {
     name: 'FUASONE',
     description: 'FUASONE ',
-    icon: '/site/fuasonelogo.svg',
+    icon: 'https://github.com/fuasone/fuas_registry/tree/1.0/site/fuasonelogo.svg',
     listUrl: 'https://github.com/fuasone/fuas_registry/',
-    contactUrl: 'https://fuas.dk',
+    contactUrl: 'https://github.com/fuasone/fuas_registry/issues',
   },
   reactStrictMode: true,
   swcMinify: true,
-  basePath: '/kasm-registry/1.0',
+  basePath: '/fuas_registry/1.0',
   trailingSlash: true,
   images: {
     unoptimized: true,
